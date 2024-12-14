@@ -21,7 +21,7 @@ to make managing your daily tasks a breeze.
 2. **Mark as Complete:**
   * Click on a task to mark it as complete. The task will display a **✔️** icon and strike through the text.
 3. Delete a Task:
-* * Click the **🗑️** icon beside a task to delete it.
+  * Click the **🗑️** icon beside a task to delete it.
 
 ### 📱 Responsive Design
 The app is fully responsive and works flawlessly on all devices:<br>
