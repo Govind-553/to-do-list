@@ -5,10 +5,10 @@ to make managing your daily tasks a breeze.
 
 ### 🌟 Features
 * **➕ Add Tasks:** Quickly add new tasks to your list.
-*✅ **Mark as Complete:** Tap on tasks to mark them as done, with a **✔️** icon and strikethrough text.
-*🗑️ **Delete Tasks:** Easily remove tasks with a delete button.
-*📱 **Responsive Design:** Fully optimized for desktops, tablets, and mobile devices.
-*🎨 **Gradient Background:** Enjoy a stunning, customizable background.
+* **✅ Mark as Complete:** Tap on tasks to mark them as done, with a **✔️** icon and strikethrough text.
+* **🗑️ Delete Tasks:** Easily remove tasks with a delete button.
+* **📱 Responsive Design:** Fully optimized for desktops, tablets, and mobile devices.
+* **🎨 Gradient Background:** Enjoy a stunning, customizable background.
 
 ### 💻 Tech Stack
 * HTML5 🌐
@@ -31,4 +31,4 @@ The app is fully responsive and works flawlessly on all devices:<br>
 
 ### 📸 Preview
 👉 Click below to visit the live demo!<br>
-**Link:** ()
+**Link:** (https://to-do-list-2t6f.onrender.com/)
